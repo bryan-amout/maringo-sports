@@ -1,0 +1,14 @@
+h2{
+    font-weight: lighter;
+    font-size: smaller;
+    color: #ec5924;
+}
+.bottom{
+    font-style: italic;
+}
+body{
+    background-color: #f8d8b5;
+}
+img{
+    border-radius: 100px;
+}

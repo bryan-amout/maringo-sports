@@ -1,0 +1,27 @@
+form{
+    background-color: #4570ed;;
+    width: 50%;
+    padding: 30px;
+    border-radius: 20px;
+    margin: 0 auto;
+    box-shadow: 1px 12px 12px green;
+}
+h1 {
+    text-align: center;
+}
+input[type=text], input[type=email], input[type=password] {
+        margin-top: 10px;
+    height: 40px;
+    width: 100%;
+    padding-left: 10px;
+    border-radius: 20px;
+    }
+button{
+    background-color: #ec5924;
+    color: white;
+    height: 40px;
+    width: 200px;
+}
+button:hover{
+    background-color: green;
+}
